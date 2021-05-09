@@ -1,6 +1,9 @@
 # BlockChain
 Implementation of BlockChain in Python
 
+### REFERENCE : Blockchain White Paper by Satoshi Nakamoto
+https://bitcoin.org/bitcoin.pdf
+
 ### Methods Implemented Class Block:
 * Initialization of Block - __init__()
 * Compute Hash for Block - compute_hash()
